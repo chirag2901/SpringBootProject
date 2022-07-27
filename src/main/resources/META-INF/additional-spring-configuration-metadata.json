@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.datasource.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.userName'"
+  },
+  {
+    "name": "spring.datasource.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.userName'"
+  },
+  {
+    "name": "spring.datasource.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.userName'"
+  },
+  {
+    "name": "spring.datasource.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.userName'"
+  }
+]}
